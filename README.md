@@ -1,1 +1,1 @@
-<p align="center"> <img src="./generated-html.svg" width="100%" alt="EZkleps: making games, apps and websites. Languages: Python, Lua, SQL, HTML, CSS, SCSS, JavaScript, TypeScript, C#, React. Tools: VS Code, Git, GitHub, Node.js, Godot."> </p>
+<p align="center"> <img src="./card.png" width="100%" alt="EZkleps: making games, apps and websites. Languages: Python, Lua, SQL, HTML, CSS, SCSS, JavaScript, TypeScript, C#, React. Tools: VS Code, Git, GitHub, Node.js, Godot."> </p>
